@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 4,
+    "lldb.showDisassembly": "never",
+    "lldb.launch.expressions": "native",
+    "editor.rulers": [80, 120],
+    "files.exclude": {
+        "build/": true,
+        "core": true,
+        "capuchinos": true,
+        ".git/**": true
+    },
+    "C_Cpp.loggingLevel": "Debug",
+    "C_Cpp.default.cppStandard": "c++17",
+    "editor.detectIndentation": false
+}
